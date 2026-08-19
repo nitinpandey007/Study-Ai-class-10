@@ -1,0 +1,8 @@
+{
+  "name":"studyai-class10-v4",
+  "version":"4.0.0",
+  "private":true,
+  "type":"module",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"express":"^5.1.0","multer":"^2.0.2","openai":"^5.12.0"}
+}
